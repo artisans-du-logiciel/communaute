@@ -10,6 +10,10 @@ Nous pensons qu’en échangeant nos questions, en confrontant nos expériences,
 
 Bienvenue parmi nous !
 
+## Mode d'emploi
+
+Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTIONNEMENT.md) de cet espace Slack, et du [code de conduite](CODE_DE_CONDUITE.md) à respecter.
+
 ## Petit guide des canaux
 
 * Sur [#general](https://artisans-du-logiciel.slack.com/messages/C04RH4P77) on parle d'artisanat logiciel
