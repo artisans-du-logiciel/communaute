@@ -2,7 +2,7 @@
 
 Tous les membres du Slack des Artisan·e·s du logiciel doivent s'engager à suivre le présent code de conduite. Les administrateurs sont les garants de sa bonne application, et la coopération de tous et toutes est souhaitée pour contribuer au bon fonctionnement de la communauté.
 
-Cet espace Slack est ouvert à toutes et tous, sans distinction d'âge, de niveau d'expérience, de situation professionnelle, de diplôme, d'origine, d'appartenance réelle ou supposée à une ethnie, à une nation, ou à une race, d'appartenance ou non à une religion déterminée, à une organisation politique ou syndicale, d'état de santé, de handicap, d'apparence physique, de genre, d'orientation ou d'identité sexuelle, de choix technologiques.
+Cet espace Slack est ouvert à toutes et tous, sans distinction d'âge, de niveau d'expérience, de situation professionnelle, de diplôme, d'origine, d'appartenance réelle ou supposée à une ethnie, à une nation, ou à une prétendue race, d'appartenance ou non à une religion déterminée, à une organisation politique ou syndicale, d'état de santé, de handicap, d'apparence physique, de genre, d'orientation ou d'identité sexuelle, de choix technologiques.
 
 Il n'est pas approprié de poster des remarques ou des images à connotation sexuelle dans le contexte de cet espace Slack.
 
