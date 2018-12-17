@@ -6,7 +6,7 @@ Cet espace Slack est ouvert à toutes et tous, sans distinction d'âge, de nivea
 
 Il n'est pas approprié de poster des remarques ou des images à connotation sexuelle dans le contexte de cet espace Slack.
 
-Cet espace est semi-privé : les participants peuvent légitimement s'attendre à ce que leurs propos ne soient pas partagé en dehors. Si vous souhaitez republier tout ou partie d'une conversation, veillez à demander l'autorisation de tous les participant·e·s concerné·e·s.
+Cet espace est semi-privé : les participant·e·s peuvent légitimement s'attendre à ce que leurs propos ne soient pas partagé en dehors. Si vous souhaitez republier tout ou partie d'une conversation, veillez à demander l'autorisation de tous les participant·e·s concerné·e·s.
 
 Les aggressions ou le harcèlement à l'égard d'un·e participant·e ou d'un groupe de participant·e·s ne seront pas tolérés. Celà inclut notamment des remarques offensantes au sujet d'une ou plusieurs des caractéristiques listées plus haut.
 
