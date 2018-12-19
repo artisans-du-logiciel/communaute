@@ -1,5 +1,21 @@
 # Bienvenue sur Artisans du Logiciel
 
+Nous sommes des humains qui fabriquons des logiciels.
+
+Ici on peut être de tout genre et de tout horizon. On peut utiliser vim, emacs, ou ce que l’on veut d’autre. On peut être de gauche, de droite, ou d’ailleurs. On peut aimer faire du PHP, du Haskell, les deux, ou ni l’un ni l’autre.
+
+Nous ne pensons pas qu’il existe une manière ultime et universelle de faire du logiciel, mais différentes approches qui peuvent nous aider selon notre contexte.
+
+Nous pensons qu’en échangeant nos questions, en confrontant nos expériences, dans l’écoute et le respect de chacun·e, nous pouvons nous perfectionner, apprendre les un·e·s des autres, et découvrir ensemble de meilleures manières de faire, sur les aspects techniques comme sur les aspects humains de notre pratique.
+
+Bienvenue parmi nous !
+
+## Mode d'emploi
+
+Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTIONNEMENT.md) de cet espace Slack, et du [code de conduite](CODE_DE_CONDUITE.md) à respecter.
+
+## Petit guide des canaux
+
 * Sur [#general](https://artisans-du-logiciel.slack.com/messages/C04RH4P77) on parle d'artisanat logiciel
 * Sur [#random](https://artisans-du-logiciel.slack.com/messages/C04RH4P7K) on parle de tout et n'importe
   quoi (à moins que ce soit l'inverse, les deux channels échangent régulièrement leur rôle et ça n'a pas l'air de gêner plus que ça)
