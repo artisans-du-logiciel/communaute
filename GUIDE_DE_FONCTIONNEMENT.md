@@ -24,11 +24,11 @@ Si vous avez des doutes ou des questions, n'hésitez pas à demander de l'aide !
 
 Slack permet de réagir avec des icônes :
 
-- si vous n'êtes pas d'accord, vous pouvez l'exprimer simplement avec 👎 ; évitez par contre les icônes désobligeantes comme le caca ou le vomi
+- si vous n'êtes pas d'accord, vous pouvez l'exprimer simplement avec 👎 ; évitez par contre les icônes désobligeantes comme 💩 ou 🤮
 
 - si une conversation va trop vite, vous pouvez utiliser la tortue 🐢 pour inviter les participant·e·s à ralentir un peu, et permettre à toutes celles et tous ceux qui le souhaitent de suivre et de pouvoir participer
 
-- si une conversation s'échauffe, ou qu'une personne réagit avec dureté, vous pouvez utiliser la fleur de la bienveillance 🌼 pour rappeler à l'ensemble des participant·e·s de respirer un petit peu et de rester respectueux les un·e·s des autres
+- si une conversation s'échauffe, ou qu'une personne réagit avec dureté, vous êtes encouragé·e à utiliser la fleur de la bienveillance 🌼 pour rappeler à l'ensemble des participant·e·s de respirer un petit peu et de rester respectueux les un·e·s des autres
 
 ## Invitations
 
