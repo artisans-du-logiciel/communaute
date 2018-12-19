@@ -4,9 +4,7 @@ Ce document décrit le fonctionnement de l'espace Slack des Artisan·e·s du log
 
 ## Arrivée
 
-On rejoint l'espace Slack par invitation personnelle d'un·e membre existant·e.
-
-Si on a envie, on peut se présenter dans le canal #accueil-nouveaux.
+Si on a envie, on peut se présenter dans le canal #accueil.
 
 On peut aussi y poser toutes ses questions sur le fonctionnement de cet espace Slack.
 
@@ -31,6 +29,14 @@ Slack permet de réagir avec des icônes :
 - si une conversation va trop vite, vous pouvez utiliser la tortue 🐢 pour inviter les participant·e·s à ralentir un peu, et permettre à toutes celles et tous ceux qui le souhaitent de suivre et de pouvoir participer
 
 - si une conversation s'échauffe, ou qu'une personne réagit avec dureté, vous pouvez utiliser la fleur de la bienveillance 🌼 pour rappeler à l'ensemble des participant·e·s de respirer un petit peu et de rester respectueux les un·e·s des autres
+
+## Invitations
+
+Vous pouvez inviter ici des personnes que vous connaissez bien, que vous appréciez, et en qui vous avez confiance.
+
+Plus une communauté en ligne grandit, plus c'est difficile de maintenir sa cohésion. Avant d'inviter de nouvelles personnes ici, prenez le temps de vous imprégner de la culture du lieu, et demandez-vous à quel point la personne que vous pensez inviter partagera les centres d'intérêt et les valeurs des personnes déjà présentes.
+
+Une invitation est individuelle : ne l'adressez pas à un groupe, mais seulement à une personne identifiée.
 
 ## Départ
 
