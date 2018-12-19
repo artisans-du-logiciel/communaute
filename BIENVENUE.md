@@ -1,4 +1,4 @@
-# Bienvenue sur Artisans du Logiciel
+# Bienvenue sur Artisan·e·s du Logiciel
 
 Nous sommes des humains qui fabriquons des logiciels.
 
