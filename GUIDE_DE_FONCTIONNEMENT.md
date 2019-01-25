@@ -4,7 +4,7 @@ Ce document décrit le fonctionnement de l'espace Slack des Artisan·e·s du log
 
 ## Arrivée
 
-Si on a envie, on peut se présenter dans le canal #accueil.
+Si on a envie, on peut se présenter dans le canal #bienvenue.
 
 On peut aussi y poser toutes ses questions sur le fonctionnement de cet espace Slack.
 
