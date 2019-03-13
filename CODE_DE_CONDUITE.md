@@ -6,12 +6,12 @@ Cet espace Slack est ouvert à toutes et tous, sans distinction d'âge, de nivea
 
 Il n'est pas approprié de poster des remarques ou des images à connotation sexuelle dans le contexte de cet espace Slack.
 
-Cet espace est semi-privé : les participant·e·s peuvent légitimement s'attendre à ce que leurs propos ne soient pas partagé en dehors. Si vous souhaitez republier tout ou partie d'une conversation, veillez à demander l'autorisation de tous les participant·e·s concerné·e·s.
+Cet espace est semi-privé : les participant·e·s peuvent légitimement s'attendre à ce que leurs propos ne soient pas partagés en dehors. Si vous souhaitez republier tout ou partie d'une conversation, veillez à demander l'autorisation de tous les participant·e·s concerné·e·s.
 
-Les aggressions ou le harcèlement à l'égard d'un·e participant·e ou d'un groupe de participant·e·s ne seront pas tolérés. Celà inclut notamment des remarques offensantes au sujet d'une ou plusieurs des caractéristiques listées plus haut.
+Les aggressions ou le harcèlement à l'égard d'un·e participant·e ou d'un groupe de participant·e·s ne seront pas tolérés. Cela inclut notamment des remarques offensantes au sujet d'une ou plusieurs des caractéristiques listées plus haut.
 
 Toute personne à qui on demanderait de cesser un comportement de harcèlement est priée de le faire immédiatement.
 
 Devant un tel comportement, les administrateurs peuvent engager toute action qui leur semble appropriée, comme donner un avertissement ou exclure la personne concernée de l'espace Slack.
 
-Si vous êtes vicitime de harcèlement, ou que vous êtes témoin d'un tel comportement, ou pour tout autre problème, merci de contacter un administrateur dans les meilleurs délais.
+Si vous êtes victime de harcèlement, ou que vous êtes témoin d'un tel comportement, ou pour tout autre problème, merci de contacter un administrateur dans les meilleurs délais.
