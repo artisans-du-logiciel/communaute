@@ -39,3 +39,4 @@ Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTI
   (quand... you get the idea)
 * [#pɹivilèges](https://artisans-du-logiciel.slack.com/messages/CBN6UN89L) a un statut particulier : les hommes cis blancs ne peuvent rien faire
   d'autre que lire et réagir avec une émoticône exprimant une émotion mais pas un avis
+* Sur [#télétravail](https://artisans-du-logiciel.slack.com/messages/CMJM92CDA), on parle de travail à la maison
